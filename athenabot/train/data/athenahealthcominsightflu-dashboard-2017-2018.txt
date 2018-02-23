@@ -1,0 +1,50 @@
+https://www.athenahealth.com/insight/flu-dashboard-2017-2018
+.
+Skip to main content.
+Search form.
+Search.
+athenaInsight.
+Trends Population Health Innovation and Tech Care Delivery Models Policy and Regulations Driving Quality Interoperability.
+Provider Engagement Physician Engagement Team-based Care Burnout The High Performing Physician Network.
+Financial Success Financial Performance Value-based Reimbursement Clinical Networks Patient Payments.
+Data Insights New Flu Dashboard Opioids Demographics Infographics Interactives.
+More About Leadership 3 Minute Case Studies Opinion Videos Podcasts Ebooks Subscribe.
+The athenaInsight 2017 – 2018 Flu Dashboard By Leah VanWhy and Philip Galebach.
+| May 17, 2017.
+athenaInsight is tracking the spread of the flu across the United States this season, using athenahealth’s network to measure influenza-like symptoms across 1 million patient visits per week to more than 25,000 pediatricians, primary care providers, and emergency medical providers. Use the interactive graphic above to hone in on a state or a single week, and check back weekly for updated data. Our methodology: Using diagnosis codes.
+from insurance claims data at the state and national level, the dashboard quantifies how many patients with influenza-like illness (ILI) are seen by each provider and estimates the proportion of symptomatic patients seen by providers around the country. The Centers for Disease Control and Prevention defines influenza-like illness as either a specific diagnosis of influenza or a fever co-presenting with a cough or sore throat. Dig deeper:.
+Clinical Trends Read This Next.
+Interactive: 126 years of change in healthcare How vaccines, cars and EHRs transformed the practice of medicine Data Insight.
+The athenaInsight 2016/2017 Lyme Disease Dashboard Tracking the spread of the tick-borne illness across the US.
+Interactive: Behavioral health in America Explore trends in anxiety, depression, insomnia and ADHD Data Insight.
+Expand Comments.
+Add a comment Add a comment Required fields are marked * Your email address will not be published..
+November 30, 2016.
+Good info to know. Also, this makes me ponder whether a flu booster is needed each season? Name: Tamie Bennett Email: test@test.com reply.
+December 21, 2017.
+I've often taken my shot later in the year because typically the worst mos are after the holidays...NOT this year...had the flu shot in Jan, got some version of flu in May(there was a big surge in cases then). I took this year's shot early...Nov...strains are stouter and more widespread. A booster might not be a bad idea! ALWAYS get the quadravalent vaccine, why pick 3 when you can have 25% more protection? Name: Jennifer Email: Tlessaky2004@yahoo.com reply.
+November 30, 2016.
+Does Athena also track influenza vaccine compliance rates using ACIP (American College of Immunization Practices) guidelines e.g. age >65, pediatrics, certain chronic medical conditions? This would be very valuable information to share with clinicians. Also, does Athena provide clinicians an alert reminding them in those who meet influenza vaccine criteria (per ACIP guidelines) to provide vaccines annually? If not, why not? I can tell you that in my practice, no automatic reminder is provided about vaccines but this would seem to be more useful than alerting clinicians about influenza-like illnesses (which could reflect illness due to about 100 different types of viruses). Name: Leonard Johnson, MD Email: test@test.com reply.
+January 24, 2018.
+I am curious as to why Iowa has such a low flu percentage compared to most other states as time. The northern states have that lower rate also. Is there less reporting or reliable data, or have they just a better health care system. What can we learn from them? Name: Alllison Kendrick Email: allisonk55@gmail.com reply.
+February 06, 2018.
+Having lived and worked in Iowa, I do not believe they have "better" healthcare or delivery. I certainly don't think they have worse, healthcare, just not superior. I would look toward far more practical reasons. Perhaps less travel to/from Iowa. Particularly in winter. No international flights, little tourism, tough travel in winter=staying home. Not saying that is the reason, but I suspect it is some similar practical reason. Name: JSM Email: Ma6907@hotmail.com reply.
+February 12, 2018.
+Please clarify the data in your two different graphics. The Map and the comparison graph are showing 2 differing National Rates of ILI for the same time period. Please clearly define each or adjust your charts to reflect like data. Name: Brantley Moore Email: brantley.moore@nghs.com reply.
+February 15, 2018.
+Hello Brantly,
+There are two factors at play here:
+1) The values for the national average (Map view's bar chart) and year-over-year (Comparison view) are not calculated using the same data set, therefor some variance will always be present. As noted in the sample areas at the bottom of each view, the Map is based on 1 million patients with visits to practices live at least 1 year, and Comparison is based on 700K patients with visits to practices live for 3 years.
+2) The dashboard runs on diagnosis codes that have been submitted prior to each Monday. Not every practice is timely with code submissions, so the dashboard’s most current week is often refreshed with slightly more accurate numbers in the following week. These modified numbers generally bring the national average and the year-over-year fairly close together.
+Hope this information helps! Name: athenaInsight team Email: lvanwhy@athenahealth.com reply Add new comment.
+Comment *.
+Name *.
+Email *.
+Website.
+Leave this field blank.
+✗ Stay in the know Sign up for weekly data and news from athenaInsight..
+The athenaInsight 2017 – 2018 Flu Dashboard.
+athenaInsight.
+Follow Us.
+Learn more To learn how network insight can help drive performance for your organization, visit athenahealth.com Contact Us Privacy Policy Terms of Use Stay in the know Sign up for weekly data and news from athenaInsight..
+© Copyright 2017 athenahealth, Inc. All Rights Reserved..

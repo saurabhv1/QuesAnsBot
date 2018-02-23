@@ -1,0 +1,349 @@
+https://www.athenahealth.com/terms-and-conditions
+.
+Request a live demo.
+Request a Live Demo.
+Please take a minute to tell us about yourself..
+* All fields required.
+First Name.
+*.
+Last Name.
+*.
+Email.
+*.
+State *.
+Select State....
+Alabama.
+Alaska.
+Arizona.
+Arkansas.
+California.
+Colorado.
+Connecticut.
+Delaware.
+District of Columbia.
+Florida.
+Georgia.
+Hawaii.
+Idaho.
+Illinois.
+Indiana.
+Iowa.
+Kansas.
+Kentucky.
+Louisiana.
+Maine.
+Maryland.
+Massachusetts.
+Michigan.
+Minnesota.
+Mississippi.
+Missouri.
+Montana.
+Nebraska.
+Nevada.
+New Hampshire.
+New Jersey.
+New Mexico.
+New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming.
+Organization Name.
+*.
+Phone (XXX) XXX-XXXX.
+*.
+# of physicians in your organization.
+1-6 7-20 21-150 151 or more Not applicable.
+View our Privacy Policy or Terms and Conditions..
+Prev.
+Next.
+Submit.
+Thanks! We'll be in touch soon!.
+In the meantime, please feel free to give us a call at 800.981.5084, explore the site or check out a video..
+An error occurred.
+Please feel free to give us a call at 800.981.5084 ..
+close.
+Request demo.
+Request demo.
+Services.
+athenahealth.
+Learn More About Our Products and Services.
+Explore Our Services.
+For Medical Groups and Practices.
+Electronic Health Records.
+Medical Billing.
+Patient Engagement.
+Order Transmission.
+Secure Text Messaging.
+Epocrates.
+For Hospitals and Health Systems.
+Electronic Health Records.
+Revenue Cycle Management.
+Care Coordination.
+Population Health.
+Epocrates.
+Solutions.
+Industry Solutions.
+Integrated health care solutions for medical groups and practices..
+Find your industry.
+Medical Groups & Practices.
+Medical Specialties.
+Starting a Medical Practice.
+FQHC.
+Urgent Care Centers.
+Health Systems.
+Community Hospitals.
+Accountable Care Organizations.
+Academic Medical Centers.
+Health Plans.
+Resources.
+The power of our network.
+We tap into our network data to improve provider performance, track public health trends, and more..
+Explore our data.
+Insights & Resources.
+Industry Knowledge Hubs.
+Revenue Calculator.
+Performance Benchmark Tool.
+Valued-Based Care.
+Value-Based Reimbursement.
+MACRA.
+Meaningful Use.
+MIPS.
+Thought Leadership.
+CloudView Blog.
+athenaInsight.
+About.
+About athenahealth.
+At athenahealth, we put people first. From our employees to the clients we serve, people drive everything we do..
+Learn more about us.
+Our Company.
+Events.
+Awards.
+Careers.
+Investors.
+Newsroom.
+Locations.
+athenaGives.
+Our Partners.
+Marketplace.
+More Disruption Please.
+Strategic Alliances.
+Your goal is to improve the way health care works. So is ours..
+Let's get there together..
+top.
+Schedule a 1:1 Meeting.
+Contact Us.
+800.981.5084.
+Client Login.
+Search form.
+Search.
+search.
+Select Page Type.
+default.
+about event home industry practice story.
+custom.
+Disclaimers.
+Table of Contents.
+Disclaimers.
+Metrics.
+Adoption Rate.
+Communicator Self-Pay DAR.
+Increase in Collections, Decrease in DAR.
+No Decrease in Patient Visits (Throughput).
+No-show Rate.
+References.
+KLAS Report.
+Tools.
+PayerView.
+Practice Vitals.
+Disclaimer.
+Methodology.
+Revenue Calculator.
+Disclaimer.
+Methodology.
+Epocrates Physician Polls.
+Patents.
+DISCLAIMERS.
+Meaningful Use Guarantee : As a service-based EHR, our monthly fee is the only payment we receive from our clients for our EHR. If our clients experience a penalty in 2016 for not attesting, we will credit them the penalty amount for the length of time that they experience the downward payment adjustment (not to exceed our services fees). This offer applies to HITECH Act penalties only..
+METRICS.
+1 Increase in Collections, Decrease in DAR: Our clients see an average 6% increase in collections and 32% decrease in days in accounts receivable, or DAR, based on a weighted average for athenahealth clients with valid pre-athenahealth benchmark data that had their 15 month anniversary with athenahealth between January 1, 2010, and October 31, 2013..
+2 No-show Rate: Our ReminderCall SM clients see, on average, an 8% lower no-show rate based on the change in average no show rate among clients with ReminderCall that had been with athenahealth for at least 21 months and had their one-year anniversary on that service between April 1, 2010, and September 30, 2013..
+3 No Decrease in Patient Visits (Throughput): Providers on our cloud-based EHR service, athenaClinicals®, are not slowed down, seeing no decrease in patient visits based on a comparison of the average change in patient visits for clients without athenaClinicals with that for clients with the service that had been with athenahealth for at least 21 months and had their one-year anniversary on that service between January 1, 2010, and September 30, 2013..
+4 Adoption Rates: Based on the percentage of athenaClinicals® users who close more than 80% of encounters electronically (88% close all of their encounters electronically)..
+5 Communicator Self-Pay DAR: Our athenaCommunicator® clients see, in the aggregate, a 2.6% decrease in self-pay days in accounts receivable based on the aggregate change in self-pay DAR for all clients with valid pre-athenaCommunicator data that had been with athenahealth for at least 21 months and had their one-year anniversary on athenaCommunicator between September 1, 2012, and November 30, 2013..
+9 Same-day encounter close rate: The percentage of athenaClinicals encounters that were closed in the same day they were opened for athenahealth clients in 2014..
+10 Encounter documentation time Average time a provider spends documenting in athenaClinicals during an encounter for athenahealth clients in 2014..
+11 Eligibility check rate The percentage of submitted claims that had an eligibility check within 5 days prior to the service date and the date of the claim submission for athenahealth clients in 2014..
+12 Time of Service Copay Collections Average total copay amount collected at the time of service divided by the total copay amount due by athenaCollector clients across athenaNet for February 2016..
+Referral-Related Denials: This data was gathered during a beta testing period for our athenaCoordinator Enterprise service, prior to full release to the general public. These results may not necessarily be indicative of future results, either generally or for a specific client..
+Meaningful Use Attestation Rate: The "Providers who have attested" percentage compares the number of athenaClinicals providers who have successfully submitted their 2015 Medicare Meaningful Use performance information to athenahealth for registration and attestation with CMS to the total number of athenaClinicals providers actively pursuing Medicare Meaningful Use for a 2015 Medicare Meaningful Use program. Providers cannot submit their performance information to athenahealth until all requirements for the Medicare Meaningful Use program have been met. All athenaClinicals providers pursuing Medicare Meaningful Use meet the Medicare Meaningful Use Eligible Professional (EP) definition as described by CMS..
+REFERENCES.
+6 KLAS Report: "Interoperability 2015: Are We Lifting Together?" October 2015. © 2015 KLAS Enterprises, LLC. All rights reserved. www.KLASresearch.com".
+"Is Ambulatory EMR Usability Improving?" June 2015. © 2015 KLAS Enterprises, LLC. All rights reserved. www.KLASresearch.com.
+Patient Portals 2015: Adoption Beyond Meaningful Use." March 2015. © 2015 KLAS Enterprises, LLC. All rights reserved. www.KLASresearch.com.
+"2015/2016 Best in KLAS Awards: Software & Services," January 2016. © 2016 KLAS Enterprises, LLC. All rights reserved. www.KLASresearch.com.
+8 ICSA:.
+The additional types of costs that could be incurred by a purchaser of this system include:.
+athenahealth's online implementation service is free for practices with one to six physicians. The on-site implementation fee for larger practices and organizations is based on the number of providers who will be using the athenaClinicals service. All athenaClinicals clients pay a monthly service fee, which covers all features, functionality, and services required to meet Meaningful Use objectives and measures..
+athenahealth does not charge additional fees for the development or configuration of interfaces or health information exchange integration that are required to meet Meaningful Use requirements. Other health care trading partners and vendors may charge athenahealth clients for the creation, development, and maintenance of interface or health information exchange integration. athenaClinicals clients that elect to use services above and beyond requirements to meet Meaningful Use may pay additional fees..
+TOOLS.
+PayerView:.
+Payerview® Disclaimer and Methodology PayerView rankings and data are based solely on actual claims activity captured in the athenaNet® system from a limited set of physicians and payers.  Rankings and data presented should not be relied upon or assumed to be representative of future experience, or of the experience of physician practices that do not participate in our services. View the full PayerView disclaimer and methodology ..
+Payer & Performance: athenahealth defines "payer" as an organization to which the physician has to submit a claim in order to get paid. This includes a managed care organization, health insurer, military health plan, HMO, preferred provider organization, third party administrator, Medicare/Medicaid plan, and carrier or intermediary to whom physicians submit third party payment claims. Some of these organizations may be forwarding claims to others for actual adjudication, processing, payment or other important steps in the payment process. Since physicians normally cannot bargain for or dictate the terms of these relationships between payers, and since it may be difficult for physicians to track or monitor movement of claims reliably from one payer to another under these relationships, it is our opinion that the physician’s vantage point is valuable, and we have therefore arranged the data to generally reflect "payers" to be those entities where claims are submitted by physicians in the first instance..
+All of the data reflected on this site are derived from the experience of athenahealth and its clients using athenahealth’s claims submission, tracking, and follow-up services. The data represent experience during the data collection period by and on behalf of athenahealth physician clients in transactions with the payers listed and/or in transactions on the claims submitted to the payers listed. The rankings and data presented do not and are not intended to present or ascribe causes for that experience, and "performance" is intended to refer to measure of observed results when claims were submitted using our services to a payer..
+As noted above in the definition of payer, the activity of a given payer may vary depending on the role that it assumes in the claim process; and, PayerView data results for a given payer may be caused in whole or in part by the actions or processes of others, including other payers, with whom or for whom the payer in turn conducts business. Similarly, the measures chosen for performance are affected by time lags, mistakes, processing practices and data quality on the part of the physician practices involved, by athenahealth itself and by third parties who act as intermediaries in the transmission of claims information. In some cases, such intermediaries are specified or approved by the payer; and, in other cases they may be chosen by other intermediaries or by athenahealth and may be outside of payer control. We actively work to identify and to address matters that we or our customers can control that affect these and other measures, and we have adopted processes that differ from others in the industry. The performance metrics experienced with the same payers by other physicians using other services may have differed materially for the data collection period..
+The reasons for results on any of the measures reported in this site are likely to be complex, and athenahealth looks forward to working with any payer to identify and eliminate causes of adverse experience in any of the reported categories..
+Performance Metrics and Weighting: To set overall national and regional rankings, we weighted each measure, placing a priority on fast, complete payment. When claims submitted to a payer were paid quickly and fully, the payer tended to do well in the overall ranking. The weighting reflects our opinion as to the impact each measure has on the ability of athenahealth and its providers to receive payment on claims..
+Days in Accounts Receivable (DAR): Average length of time it takes to receive payment as measured from the date of charge entry to the date of remittance post..
+PayerView’s DAR measures cash flow by dividing the average dollars outstanding by the average daily charge. This measurement encompasses the period from the day a charge is entered into athenaNet to the day payment for a charge is posted. This includes any lag time that was caused by athenahealth or its clients in the transmission and posting process. This lag time is one of several ways this metric could have been influenced by matters outside the control of the payer. However, we believe that claim submission and posting procedures tend to impact the outcome consistently across payers, making data comparative and therefore instructive..
+First Pass Resolve Rate: Percent of claims that are successfully resolved on the initial submission (e.g., paid or transferred to patient responsibility)..
+“First Pass Resolved” claims are classified as receiving full or partial payment and/or deemed as patient responsibility by the payer on the initial claim submission. Partial payments count as a positive outcome only if the payer communicates that no outstanding amount is remaining. Because athenahealth’s client base is a subset of the national provider base, these figures may differ from the national average..
+Provider Collection Burden: Percent of charges transferred from the primary insurer to the next responsible party. Includes co-insurance, deductibles and other transfers (e.g., non-covered services). Co-pays and Real Time Adjudication (RTA) amounts are not included in the rate as this information is readily known at the time of service..
+A shift in financial burden is imposed on providers when they become responsible for managing collections from the next responsible party after the time of service. Given that providers have few point-of-service tools to manage this growing segment of their revenue stream, it is important to measure what percentage of liability is only available after a patient’s visit and requires providers to incur additional costs to collect those payments..
+Denial Rate: Percent of claims (both pended and denied) that require the practice to perform back-end rework..
+The more rework involved with a claim, the longer it takes for the provider to get paid and the greater the resources required by physicians to arrange payment. To measure the frequency of these events, PayerView calculates the number of outright denials for claims submitted to each payer, as well as the line items that require reworking. Because we define denials in this calculation as all claims requiring back-end work, this metric may include claims at the payer pending additional information. Moreover, since back-end work is applied by physicians or by athenahealth, there may be subjective factors that affect this percentage. However, we believe these factors tend to impact the outcome consistently across payers..
+Enrollment Efficiency: Quantitative ranking of administrative burden surrounding provider enrollment in electronic transactions..
+Ranking considers quantitative scores for enrollment in EDI, ERA, EFT, & PAYTO. Scores assigned based on enrollment type, signature requirements, and submission method..
+ERA Transparency: Percentage of electronic remittance advice (ANSI 835) denial messages with actionable explanations and clear next steps. This metric reflects how well the payer has adopted the standard code set by returning clear adjustment reason codes accompanied by remark codes as appropriate. The inclusion of the ERA metric, along with the Eligibility Accuracy metric, brings more visibility to the full HIPAA covered ANSI standard transaction suite..
+Eligibility Accuracy: Correlation of eligibility response to adjudication outcome. Measures how well the payer’s eligibility transaction predicts the outcome of a claim. Eligibility loss categories are:.
+Patient eligible—claim denial.
+Patient ineligible—no claim denial.
+Patient not found—no claim denial.
+Other payer info received—no coordination of benefits (COB) denial.
+No other payer info received—COB denial.
+Any eligibility transaction attempt when the payer’s eligibility system is not available due to unscheduled downtime..
+Note that PayerView does not measure the amount of money practices receive from payers; it quantifies, rather, the challenges practices face when collecting from payers for services..
+Eligibility transactions are most effective and useful to providers when they are available (i.e., do not encounter persistent downtime or unverified patient responses) and reliable (i.e., the eligibility response indicates how we can expect the claim to be adjudicated). It is important for payers to return a reliable and detailed eligibility response so that providers can identify and resolve eligibility related issues before submitting the claim to the payer..
+Benefit Reliability: Percent of patient responsibilities in which payer returned the correct patient responsibility information through eligibility at the time of service. For copays, this means having an exact match to the eventual copay amount. For deductible or coinsurance, it is only required that the eligibility response indicate that the patient may owe a deductible or coinsurance..
+Enrollment Turnaround Time: athenahealth has added one new weighted metric to capture payer performance in enrollment turn-around-time, which can be an administrative burden for providers..
+The number of days required for a payer to return an enrollment request. The median value of enrollment requests submitted to the provider for three different workflows: EDI, EFT, and PAYTO (change of provider’s pay-to address). PracticeVitals:.
+Disclaimer: Use of PracticeVitals is subject to the following conditions and limitations. The information provided by PracticeVitals is based on historical data from a limited set of medical practices. Due to the inherent limitations of the data that modeling tools such as PracticeVitals must use, any information that they provide is offered for illustrative purposes only and cannot be expected or relied upon to project future results..
+athenahealth makes no representations, warranties, or guarantees regarding any information provided by PracticeVitals or the results obtained from its use or the use of any product or service and shall not be responsible or liable for any errors or omissions in that information or the results obtained from any such use..
+The information provided by PracticeVitals does not constitute advice of any kind and should be viewed critically; users should obtain any additional information necessary to make an informed decision as to the selection of any product or service. While athenahealth anticipates making regular changes to the data on which PracticeVitals is based, such changes may or may not be incorporated on a regular basis or at all; to the extent that changes are made, results provided by the tool may vary with each use and over time..
+To avoid re-display of PracticeVitals introductory screens if you have recently used the tool, a “cookie” will be stored on your device for fourteen days to indicate your prior visit—no personal information or settings are stored in this cookie; for more information on how information entered or stored when using our website and online tools may be used, please see our Privacy Policy, which is available at: https://www.athenahealth.com/our-company/privacy-policy.php. If you have obtained information reportedly provided by PracticeVitals from a source other than athenahealth.com, please be aware that such electronic information can easily be altered subsequent to its original distribution..
+Methodology: Our goal is to provide timely and specialty-specific market data for certain key operational metrics, together with best-practices suggestions, so that users can better evaluate and improve the efficiency, productivity, and financial performance of their medical practices..
+Data Period and Scope: The data used in PracticeVitals are based on actual physician activity captured by athenahealth in the course of providing our services. In order to be considered for inclusion in the data set for a particular metric, data must come from a practice with a sufficient track record on our systems..
+Sufficient Track Record: Because PracticeVitals includes a one-year trailing monthly performance graph for each metric, we have sought to maintain a consistent sample pool throughout this one-year period (apples to apples, right?). We therefore require a practice to have been using our services for that entire year—plus another three months to control for potentially skewed data from practices just transitioning to our services—to be considered for inclusion in the data set..
+Eliminating Spurious Data: To control for statistically anomalous data that could materially skew average practice performance, all figures shown are median values. This means that, for the specialty selected, half the providers are above the median and half are below the median. This approach provides a stable estimate of 'typical' levels for the specialty chosen..
+If a practice specialty is selected in the tool, data for practices with that specialty will be used unless the sample pool for that specialty is too small to be meaningful. If there aren’t at least thirty practices in a specialty with qualifying data for a particular metric, then the sample pool will be broadened to include all practices with qualifying data for that metric. If a specialty is selected, an asterisk will be displayed by any metric that uses data from all practices in order to indicate that the metric is not specialty-specific..
+Unless otherwise specified, each metric represents the median statistic across all practices included in the data set for that metric..
+Metrics: The data described above are used to calculate the results in each of the following categories:.
+No-Show Rate: No-Show Rate is calculated by dividing (1) a practice’s total number of appointments cancelled with a “Patient no-show” reason during the month in question by (2) the total number of appointments scheduled for the same month for that practice..
+Revenue Resolution Rate: Revenue Resolution Rate is calculated by (1) dividing (a) the difference between a practice’s total charges posted and its net receivables for the month in question by (b) the total charges posted by that practice for that month and (2) subtracting the result from 100%..
+Days In Accounts Receivable: Days in Accounts Receivable (DAR) is calculated by dividing (1) the average of a practice’s accounts receivable over the last seven days of the month in question by (2) the 60-day rolling average of the daily total fee-for-service charges generated by that practice, averaged over each of the last seven days of that month..
+Turn Around Time: Turn Around Time is the average number of days between the date each particular service is provided by a practice during the month in question and the date the related claim is entered into athenaNet..
+Same-Day Close Rate: Same-Day Close Rate is calculated by dividing (1) the number of a practice’s checked-in appointments during the month in question that are closed on the date of service by (2) the total number of checked-in appointments for that involve only diagnostic tests using practice equipment are excluded..
+Delegation of Work: Delegation of Work is calculated by dividing (1) the number of minutes spent on intake documentation by a practice’s non-provider staff during the month in question by (2) the number of minutes spent on intake documentation by that practice’s non-provider staff and providers during that month. Intake documentation time for encounters handled other than by a rendering provider or non-provider staff or with an elapsed time between the start of check-in and final sign-off of six hours or more is excluded..
+Revenue Calculator:.
+Disclaimer:.
+Use of the Revenue Calculator is subject to the following conditions and limitations. The information provided by the Revenue Calculator is based on historical data from a limited set of medical practices, average industry cost data published by others, and user responses to a few select questions. Due to the inherent limitations of the data that modeling tools such as the Revenue Calculator must use, any information that they provide is offered for illustrative purposes only and cannot be expected or relied upon to project future results..
+IMPORTANT: athenahealth makes no representations, warranties, or guarantees regarding any information provided by the Revenue Calculator or the results obtained from its use or the use of any product or service and shall not be responsible or liable for any errors or omissions in that information or the results obtained from any such use..
+The information provided by the Revenue Calculator does not constitute advice of any kind and should be viewed critically; users should obtain any additional information necessary to make an informed decision as to the selection of any product or service. Changes may be periodically made to the data on which the Revenue Calculator is based; these changes may or may not be incorporated into any new version of the tool, and results provided by the tool may vary with each use and over time..
+To improve the ease of use of the Revenue Calculator, any data or settings you submit will be retrievable on your computer for fourteen days through the use of a "cookie"; for more information on how information you enter when using our website may be used, please see our Privacy Policy, which is available at: https://www.athenahealth.com/our-company/privacy-policy.php . If you have obtained information reportedly provided by the Revenue Calculator from a source other than athenahealth.com, please be aware that such electronic information can easily be altered subsequent to its original distribution..
+Methodology: Our goal is to provide users with a brief and simple illustration of a few of the ways that athenahealth can help to improve a medical practice's bottom line..
+Data Period and Scope: The data used in this calculator are based on actual physician activity captured by athenahealth in the course of providing our services, surveys we've taken of vendors, and third-party research published by iData Research Inc. (U.S. Market for Electronic Medical Records, December 2009) and the U.S. Department of Labor, Bureau of Labor Statistics (Occupational Employment and Wages—May 2009, May 2010). The following provides a summary of the data used:.
+Average Annual Chart Pull Savings : The average annual savings per physician in chart-pull labor costs due to EMR adoption. Source: iData Research (2008).
+Average Monthly Collections : The average monthly collections per provider, by specialty. Source: athenahealth data (Q3 2015).
+Average Monthly Label Cost : The average price per provider for printed labels used to identify clinical documents faxed to athenahealth during one month. Source: athenahealth data (September 2010), athenahealth vendor survey (October 2010).
+Average Monthly Labor Cost : An estimate of the average monthly labor cost per provider for a medical records technician to process a practice’s internal documents for delivery to athenahealth. Source: athenahealth data (September 2010), U.S. Dept. of Labor (Year ended May 2009).
+Average Monthly Printer Cost : The average price for a label printer, amortized over a year. Source: athenahealth vendor survey (October 2010).
+Average Monthly Visits : The average monthly number of patient visits per provider, by specialty. Source: athenahealth data (Q3 2015).
+Medicare Part B Percentage : The average percentage of collections that are received by practices under Medicare Part B, by specialty. Source: athenahealth data (Q3 2015).
+Pre-athena No-show Rate : The average percentage of patients who do not show for appointments for practices that are not live on athenaCommunicator®. Source: athenahealth data (Year ended 2014).
+Storage & Management Cost Savings : The average annual practice savings in storage space and archive management costs due to EMR adoption, based on the number of practice physicians. Source: iData Research (2008).
+Assumptions: In developing this calculator, we relied on our experience with our clients in assuming that a practice will generally have one label printer for every three providers and that a medical records technician will take between one and two minutes to prepare and send an internal document of the practice to athenahealth (documents from third parties are faxed directly to athenahealth without any action required on the part of the practice). We have also assumed that a practice's providers are all eligible ambulatory health care providers and therefore qualify for CMS EHR incentive programs and are subject to Clinical Quality Measure penalties..
+Calculations: The data and assumptions provided above are used to calculate the results in each of the following categories:.
+Increase Collections : To determine the estimated increase in monthly collections due to use of athenaCollector®, the Average Monthly Collections for a practice of the selected specialty (a per-provider average) is multiplied by the specified number of practice providers to estimate total practice monthly collections. This number is presented to the user during the initial questions as the default, but it, like the other defaults in the calculator, may be changed by the user. The entered practice monthly collections is then multiplied by the entered percentage increase in collections. 6% is offered as the default for the percentage increase in collections because that is the average increase for our clients, based on a weighted average for athenahealth clients with valid pre-athenahealth benchmark data that had their 15-month anniversary with athenahealth during 2013..
+Reduce No-Shows : To determine the number of additional visits each month due to use of athenaCommunicator, the entered number of monthly visits (as described in Increase Patient Volume) is multiplied by the Pre-athena No-show Rate and then the expected percentage improvement in the no-show rate. 8% is offered as the default for the percentage improvement in the no-show rate, because our clients have seen at least that percentage of improvement, based on a comparison of the highest no-show rate among clients with athenaCommunicator® and the average rate for appointments without the service for the year ending 2014..
+The expected number of additional visits each month is then monetized by the same method set forth in Increase Patient Volume..
+Population Health Campaigns : Total revenue per provider received for corresponding patient visit within 14 days of a successful reminder contact as part of a quality measure campaign (listed below) for the year 2014. Only those providers participating in the campaign were included in the analysis. ID NAME 1 Medicare Annual Wellness Visit 2 Influenza Vaccination 3 Colorectal Cancer Screening 4 Diabetes: Overdue HbA1C or LDL-C Screenings 5 Hypertension: Uncontrolled Blood Pressure 21 Breast Cancer Screening 22 Diabetes: Influenza Vaccination 23 Diabetes: HbA1c Control <7% 24 Adolescent Well-Care Visits 41 Blood Pressure Control for Adults (140/90) 42 Blood Pressure Screening 43 Cervical Cancer Screening 21-29 (Every two years) 44 Cervical Cancer Screening (Every 3 years) 45 Chlamydia Screening in Women 46 Pneumonia Vaccination 47 Shingles (Herpes Zoster) Vaccination 48 Pneumonia Vaccination for Asthmatics 49 CAD: Blood Pressure Control 50 CHF: Blood Pressure Control 51 IVD: Blood Pressure Control 52 Blood Pressure Screening for CAD 53 Lipid Control (Less than 100) for CAD 54 Lipid Process (1x year) for CAD 55 BP Control in Diabetes (130/80) 56 BP Control in Diabetes (140/80) 57 BP Control in Diabetes (140/90) 58 Hb A1c Process (2x year) 59 Diabetes: HbA1c Control <8% 60 Lipid Control (Less than 100) 61 Pneumonia Vaccination for Diabetics 181 HPV Vaccination Initiation 182 HPV Vaccination Overdue 201 Well-Child Visit Aged birth-18 months 202 Well-Child Aged 18 months -3 years 62 Tdap Adult Booster for Diabetics 63 BP Control in Hypertension (140/90) 64 CKD4/CKD5 and diabetes: HbA1c < 7 65 CKD4/CKD5: Blood pressure control 66 Well-Child Visits Aged 3 - 11 67 Medicare Screening Pelvic Examination 68 Adult Annual Preventive Visit 69 Diabetes: Uncontrolled HbA1c > 9% or LDL-C >100 81 Tdap Adult Booster 101 Influenza Vaccination: Child 102 BMI: High-Risk Overweight or Obese 103 Diabetes: HbA1c Control <9% 104 Comprehensive Immunizations Before Turning 2 (HEDIS) 141 Blood Pressure Control: CVD or CHF or IVD 161 ACE/ARB monitoring Other QM Campaign.
+CMS Incentive and Penalty Programs :.
+Qualification for Meaningful Use penalties : For 2016, penalty total reflects the -2% reimbursement cut of the practice’s total Medicare Part B payments for the year as determined by CMS based on a provider’s 2015 performance. To determine a provider's expected total Medicare payments for the year, the entered practice monthly collections is divided by the specified number of providers to obtain a per-provider average. This average and the Medicare Part B Percentage for a practice of the selected specialty are then multiplied and annualized..
+Qualification for PQRS penalties : Annual penalty for PQRS & VM in 2016 reflects the -4% Medicare Part B reimbursement cut as determined by CMS based on a provider’s 2014 performance (% penalty amount depends on group size per CMS). This 4% penalty is applied to the practice’s annual Medicare Part B payments. To determine a provider's expected total Medicare payments for the year, the entered practice monthly collections is divided by the specified number of providers to obtain a per-provider average. This average and the Medicare Part B Percentage for a practice of the selected specialty are then multiplied and annualized. Chronic Care Management (CCM) Incentives: CCM values based on CMS data indicating that two out of three Medicare beneficiaries have two or more chronic conditions: Page 2: https://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-MLN/MLNProducts/Downloads/ChronicCareManagement.pdf . W.
+Document Services Cost Savings : As a rough estimate of the monthly document services cost savings from use of athenaClinicals, the Average Annual Chart Pull Savings (a per-physician average) is multiplied by the specified number of practice providers and then added to the Storage & Management Cost Savings for a practice of the specified number of providers (since the iData Research data underlying this calculation are based on the number of practice physicians, the specified number of practice providers is used as a proxy for purposes of this calculation). This number is then divided by twelve to obtain a monthly average document services cost savings..
+In an effort to represent the athenaClinicals cost savings fairly, we then make sure to back out an estimate of the document services expenditures incurred in the use of athenaClinicals. To do this, we subtract the following from the monthly average cost savings: (1) the Average Monthly Printer Cost,  multiplied by the specified number of practice providers and then divided by three (i.e., the assumed number of providers per label printer); (2) the Average Monthly Label Cost   (a per-provider average), multiplied by the specified number of practice providers; and (3) the Average Monthly Labor Cost   (a per-provider average), multiplied by the specified number of practice providers..
+As background, the average monthly costs used in this calculation are determined as follows. Average Monthly Printer Cost   is based on our market research of the going price of suitable label printers, and the average cost of such printers is then divided by twelve to obtain the monthly expenditure (note that this is only an expense in the first year). Average Monthly Label Cost   is based on the average number of bar-code-labeled clinical documents that athenahealth receives from each athenaClinicals client in a month, multiplied by the average cost of a single label (as determined through our market research). Average Monthly Labor Cost is based on our understanding of the time taken to label a practice's internal clinical document (converted to an hourly fraction), multiplied by the average number of such documents that we receive per month from each athenaClinicals client, and then multiplied by the 2009 median U.S. hourly wage for medical record technicians (i.e., $15.04). *Survey of more than 2,800 Epocrates users to learn more about the shifting medical practice landscape, February 2015..
+Full Value Calculator:.
+Disclaimer:.
+Use of the Full Value Calculator is subject to the following conditions and limitations..
+The information provided by the Full Value Calculator is based on historical data from a limited set of medical practices, industry-set penalty and incentive qualifications, and user responses to a few select questions. Due to the inherent limitations of the data that modeling tools such as the Full Value Calculator must use, any information provided by the Full Value Calculator is offered for illustrative purposes only and only offers approximate estimates based upon certain historic data, as described above. These calculations do not guarantee any savings for your practice, the avoidance or incurrence of penalties for your practice, and should not be expected or relied upon by you or your practice to project future results in any way..
+IMPORTANT: athenahealth makes no representations, warranties, or guarantees regarding any information provided by the Full Value Calculator or the results obtained from its use or the use of any product or service, and shall not be responsible or liable for any inaccuracies, misstatements, errors or omissions in that information or the results obtained from any such use. BY USING THE FULL VALUE CALCULATOR, YOU HEREBY AGREE AND ACKNOWLEDGE THAT ATHENAHEALTH SHALL NOT BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, UNDER ANY LEGAL THEORY FOR DIRECT, INDIRECT, EXEMPLARY, PUNITIVE, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES OR LOSSES, LOST PROFITS OR BUSINESS OPPORTUNITIES OR THE COST OF PROCUREMENT OF SUBSTITUTE ITEMS OR SERVICES) THAT YOU MAY INCUR AS A RESULT OF USE OF THE FULL VALUE CALCULATOR, AND ACKNOWLEDGE THAT ATHENAHEALTH DISCLAIMS ANY SUCH LIABILITY. Athenahealth undertakes no obligation to provide error-free or fault-free items or services, and the VBR Calculator are provided “as is” with all faults and defects. EXCEPT AS EXPRESSLY PROVIDED HEREIN, ATHENAHEALTH DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES OF ANY KIND OR NATURE, EXPRESS OR IMPLIED (EITHER IN FACT OR BY OPERATION OF LAW), WITH RESPECT TO ANY SERVICE OR ITEM PROVIDED HEREUNDER, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTY OF MERCHANTABILITY, TITLE, NON-INFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE AND ANY WARRANTY ARISING FROM CONDUCT, COURSE OF DEALING, CUSTOM, OR USAGE IN TRADE..
+The information provided by the Full Value Calculator does not constitute advice of any kind and should be viewed critically by you. Changes may be periodically made to the data on which the Full Value Calculator is based without notice to you; these changes may or may not be incorporated into any new version of the tool, and results provided by the tool may vary with each use and over time..
+MU penalty data reflects the -4% 2018 Medicare Part B reimbursement cut as determined by CMS based on a provider’s 2016 performance..
+PQRS & VM penalty data reflects the -4% or -6% 2018 Medicare Part B reimbursement cut as determined by CMS based on a provider’s 2016 performance (% penalty amount depends on group size per CMS)..
+CCM values based on CMS data indicating that two out of three Medicare beneficiaries have two or more chronic conditions: Page 2: https://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-MLN/MLNProducts/Downloads/ChronicCareManagement.pdf.
+TCM data based on CMS national average indicating that 14% of beneficiaries have an inpatient episode followed by a post-acute visit: Page 16: https://www.cms.gov/.
+Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Chronic-Conditions/Downloads/2012Chartbook.pdf.
+CCM values are calculated assuming a conservative 25% patient consent rate..
+VM values based on CMS 2015 x-factor: Page 3: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3170615/.
+*Money defined as “incentive” or “penalty” reflects a projection of potential financial penalties and rewards to be assessed in 2018 for the athenahealth client, based on their previous performance. Unless otherwise indicated, source is athenahealth data. © August 2015, athenahealth, Inc. All rights reserved..
+PATENTS.
+athenaCollector, U.S. Patent #7,720,701; #8,332,287; #8,561,882; #8,756,071; #9,372,916. athenaClinicals, U.S. Patent #8,660,858; #8,671,112; #9,672,325. Epocrates, U.S. Patent #6,944,859; #7,509,263, #7,856,365; #7,286,996, #7,599,846; #7,890,350, #8,290,787..
+Products & Services.
+EHR.
+Practice Management.
+Revenue Cycle Management.
+Patient Engagement.
+Population Health Services.
+Order Transmission.
+Patient Access & Care Coordination.
+epocrates®.
+Industry Solutions.
+Medical Groups.
+and Practices.
+Medical Specialties.
+Starting a Medical Practice.
+Urgent Care Centers.
+FQHC.
+Accountable Care Organizations.
+Academic Medical Centers.
+Community Hospitals.
+Interoperability.
+Results & Insights.
+athenaInsight.
+Results From Our Network.
+Payer Rankings and Analysis.
+Calculate Potential Revenue.
+Benchmark Against Peers.
+Gain Reimbursement Insight.
+Performance Benchmark Tool.
+Government Initiatives:.
+Meaningful Use.
+PQRS.
+Thought Leadership:.
+CloudView Blog.
+athenaInsight.
+Results Insights(Column II).
+Industry Knowledge Hubs:.
+Reimagined EHR.
+Accountable Care Organization.
+Clinical Integration.
+EHR Advantages.
+Interoperability.
+ICD - 10.
+Meaningful Use.
+Patient Engagement.
+Value-Based Reimbursement.
+Population Health.
+Staying Independent.
+Community Hospitals.
+MACRA.
+See all.
+About athenahealth.
+Our Company.
+Events.
+Careers.
+Investors.
+Newsroom.
+Locations.
+athenaGives.
+Marketplace.
+More Disruption Please.
+Strategic Alliances.
+Visit us on:.
+facebook.
+twitter.
+youtube.
+linkedin.
+Privacy Policy.
+Terms of use.
+Disclaimers.
+Contact us.
+© Copyright 2017 athenahealth, Inc. All Rights Reserved.

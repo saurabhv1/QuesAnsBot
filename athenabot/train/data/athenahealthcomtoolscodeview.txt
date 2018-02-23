@@ -1,0 +1,241 @@
+https://www.athenahealth.com/tools/codeview
+.
+Request demo.
+Products & Services.
+athenahealth Join the network that lets doctors be doctors.
+See How.
+For Medical Groups and Practices.
+Electronic Health Records.
+Medical Billing.
+Patient Engagement.
+Order Transmission.
+Secure Text Messaging.
+Epocrates.
+For Hospitals and Health Systems.
+Electronic Health Records.
+Revenue Cycle Management.
+Care Coordination.
+Population Health.
+Epocrates.
+Industry Solutions.
+See how much more you could make with athenahealth.
+Try the calculator.
+Medical Groups & Practices.
+Medical Specialties.
+Starting a Medical Practice.
+FQHC.
+Community Hospitals.
+Hospitals & Health Systems.
+Accountable Care Organizations.
+Academic Medical Centers.
+Urgent Care Centers.
+Health Plans.
+Results & Insights.
+View results & insights.
+The power of our network We tap into our network data.
+to improve provider performance,.
+track public health trends, and more..
+Explore our data.
+Insights & Resources.
+Industry Knowledge Hubs.
+Payer Rankings and Analysis.
+Calculate Potential Revenue.
+Benchmark Against Peers.
+Gain Reimbursement Insight.
+Valued-Based Care.
+Value-Based Care.
+MACRA.
+Meaningful Use.
+MIPS Guarantee.
+Thought Leadership.
+CloudView Blog.
+athenaInsight.
+About athenahealth.
+Learn more about athenahealth.
+About athenahealth At athenahealth, we put people first. From our employees to the clients we serve, people drive everything we do..
+Learn more about us.
+Our Company.
+Events.
+Awards.
+Careers.
+Investors.
+Newsroom.
+Locations.
+athenaGives.
+Our Partners.
+Marketplace.
+More Disruption Please.
+Strategic Alliances.
+Your goal is to improve the way health care works..
+So is ours. Let's get there together..
+Schedule a 1:1 Meeting.
+Contact Us.
+800.981.5084.
+Client Login.
+search.
+Giving transparency to health care prices.
+Specialty.
+Procedure.
+Region.
+Giving transparency to health care prices.
+Uncover the average reimbursements more than 100,000 providers like yours are seeing on our cloud-based network..
+See average reimbursements from 100,000 providers on our network.
+Explore now.
+Step 1 Filter by specialty:.
+All Specialties.
+Cardiology.
+Family Practice.
+Internal Medicine.
+Multi-Specialty.
+OB/GYN.
+Ophthalmology.
+Orthopaedic Surgery.
+Pediatrics.
+Step 2 Choose a procedure.
+Sort code by:.
+Alphabetical Code number.
+Arthrocentesis Major Joint 20610.
+Critical Care, First Hour 99291.
+Drug or Diagnostic Injection 96372.
+ECG, Complete 93000.
+ECG, Interpration and Report Only 92010.
+Step 3 Select a region.
+National.
+Central.
+Mid-Atlantic.
+Northeast.
+Southeast.
+South.
+West.
+Get results.
+Results by Payer Type.
+Commercial Payer.
+Medicaid.
+Medicare.
+Your inputs:.
+Cardiology.
+Cardio Stress Test, Complete.
+93015.
+Northeast.
+239.
+$277.
+333.
+Average for all payer types:.
+$215.
+Average Reimbursement.
+$34.
+Average dollars per RVU.
+Your inputs:.
+Average for all payer types:.
+Average Reimbursement.
+Average dollars per RVU.
+Your inputs:.
+Average for all payer types:.
+Average Reimbursement.
+Average dollars per RVU.
+Edit all inputs.
+Tips & Tools.
+Revenue Insight.
+Achieve financial health at your organization: Take advantage of athenahealth data, insight and expertise with these useful tools & tips:.
+To best serve your needs, select what best describes your organization type:.
+Medical Groups & Practices.
+Hospitals & Health Systems.
+Seven Tips for Contract Evaluation.
+Revenue Calculator.
+Watch athenaCollector demo.
+Back to results.
+Edit inputs.
+CodeViewSM uses clean claims data, from January [2013] through Dec 2013, to estimate average contracted rates for select procedure codes across several classes of payers. We employ the following process to produce these estimates: 1.    In order to limit the data set to payers for which we have significant and reliable transaction volume, we first remove data from any payer that isn’t included in our PayerView® report, which uses a robust vetting process to ensure data quality. 2.    We then restrict the data to primary charges on claims billed to primary insurance that did not receive a denial (i.e., they either resulted in a payment or an explanation of benefits that resulted in a transfer to either secondary insurance or the patient). 3.    Because mid-level providers are often reimbursed at a different rate, procedure code modifiers can impact reimbursement, and practices located outside of the lower 48 states and District of Columbia often see reimbursement that is not comparable to practices elsewhere in the U.S., we remove data to control for these factors. 4.    For each payer, the remaining allowable amounts are then analyzed to find the most common amount for each practice/procedure code (this is used to control for anomalies, like the effect of deductibles that have not been satisfied early in the year). If the most common allowable amount is found a material number of times and constitutes the sizeable majority of results for that practice and procedure code, it is assumed that this allowable amount reflects the contracted rate for that practice and procedure code. 5.    Using these estimated contracted rates, we calculate the 25th percentile, median, and 75th percentile, for each procedure code, by provider specialty, nationally and in each region of the country, for Private, Medicare B, and Medicaid payers. To comply with Department of Justice guidance, we only display results for private payers if the data behind those results come from at least five payers, no one payer constitutes more than 25% of the charges used in the calculation, all data is at least 90 days old, and the data used in the calculation was taken from multiple practices (Medicare and Medicaid data is obviously not subject to these limitations). Data for each specialty must also be available for at least two regions of the country..
+Request a live demo.
+Please take a minute to tell us about yourself. * All fields required.
+First Name.
+*.
+Last Name.
+*.
+Email.
+*.
+State *.
+Select State... Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming.
+Organization Name.
+*.
+Phone (XXX) XXX-XXXX.
+*.
+# of physicians in your organization.
+1-6 7-20 21-150 151 or more Not applicable.
+We will never share your email without your permission. View our Privacy Policy ..
+Prev.
+Next.
+Submit.
+Thanks! We'll be in touch soon!.
+In the meantime, please feel free to give us a call at 800.981.5084, explore the site or check out a video..
+An error occurred.
+Please feel free to give us a call at 800.981.5084..
+Share.
+Products & Services.
+EHR.
+Practice Management.
+Revenue Cycle Management.
+Patient Engagement.
+Population Health Services.
+Order Transmission.
+Patient Access & Care Coordination.
+epocrates ®.
+Industry Solutions.
+Medical Groups & Practices.
+Hospitals & Health Systems.
+Medical Specialties.
+Starting a Medical Practice.
+Urgent Care Centers.
+FQHC.
+Accountable Care Organizations.
+Academic Medical Centers.
+Community Hospitals.
+Interoperability.
+Results & Insights.
+athenaInsight.
+Results From Our Network.
+Payer Rankings and Analysis.
+Calculate Potential Revenue.
+Benchmark Against Peers.
+Gain Reimbursement Insight.
+Government Initiatives:.
+Meaningful Use.
+Thought Leadership:.
+CloudView Blog.
+athenaInsight.
+Industry Knowledge Hubs:.
+Reimagined EHR.
+Accountable Care Organization.
+Clinical Integration.
+EHR Advantages.
+Interoperability.
+ICD-10.
+Meaningful Use.
+Patient Engagement.
+Value-Based Reimbursement.
+Population Health.
+Staying Independent.
+Community Hospitals.
+MACRA.
+See all.
+About athenahealth.
+Our Company.
+Events.
+Careers.
+Investors.
+Newsroom.
+Locations.
+athenaGives.
+More Disruption Please.
+Strategic Alliances.
+Marketplace.
+Visit us on:.
+facebook.
+twitter.
+youtube.
+linkedin.
+Privacy Policy.
+Terms of Use.
+Disclaimers.
+Contact Us.
+© Copyright 2017 athenahealth, Inc. All Rights Reserved.

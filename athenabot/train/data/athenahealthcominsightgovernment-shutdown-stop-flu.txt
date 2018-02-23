@@ -1,0 +1,33 @@
+https://www.athenahealth.com/insight/government-shutdown-stop-flu
+.
+Skip to main content.
+Search form.
+Search.
+athenaInsight.
+Trends Population Health Innovation and Tech Care Delivery Models Policy and Regulations Driving Quality Interoperability.
+Provider Engagement Physician Engagement Team-based Care Burnout The High Performing Physician Network.
+Financial Success Financial Performance Value-based Reimbursement Clinical Networks Patient Payments.
+Data Insights New Flu Dashboard Opioids Demographics Infographics Interactives.
+More About Leadership 3 Minute Case Studies Opinion Videos Podcasts Ebooks Subscribe.
+Shutdown didn't stop the flu – or flu data reporting​.
+By Josh Gray and Dorrie Raymond | January 22, 2018.
+The government shutdown that began Saturday morning, January 20 resolved just two days later. That's a relief – yet the episode serves to underscore the fragility of centralized public health reporting. While it is hard to know exactly what a continuing shutdown would have meant for government-led flu monitoring, it is quite possible that reporting – at the peak of a severe flu season – would have been slower than usual. In the government shutdown of October 2013, the government discontinued flu reporting entries for 16 days. In 2018, however, a range of data sets, from retail to social media to EHR data, are available that complement the CDC's flu reporting and provide a valuable second – and third – set of eyes on the spread of disease through populations. As researchers at athenahealth, we monitor diagnoses of roughly 700,000 visits each week to a cohort of primary care doctors tracked continuously over the last three years. We analyze the proportion of patient visits resulting in a diagnosis of influenza-like illness (ILI). The CDC tracks roughly the same volume of patient visits weekly, with larger numbers of visits in some states, including Georgia, Illinois, and Oregon. The athenahealth network tracks more visits in other states, including Texas, Ohio, Florida, and Michigan. This athenahealth data has been shown to correlate accurately with CDC figures and has been shown to be useful in predicting flu prevalence a week in the future in certain urban populations. Through Saturday, January 20, according to our data, ILI-related patient visits reached 5.6 percent of all primary care visits, up from 5.3 percent the week ending January 13, and significantly higher than measures of flu activity across the network at this time than in the last three years. (Note that, while flu visits are up, it is not necessarily an indication of an increase in overall visit volume.) The data also show that ILI prevalence is playing out very differently across age groups. Rates have plateaued for all age groups 18 and over, but are increasing for children. The highest rates are evident for 5- to 17- year olds, where ILI accounts for 13.3 percent of visits, up from 8.2 percent just two weeks ago. Rates for 0- to 4-year-old children are 9.7 percent, up from 8.8 percent the previous week. Given the high toll that flu is taking this year, it is essential to be as rigorous as possible in monitoring the spread of a life-threatening virus, even during a government shutdown. And that's going to take both public and private organizations fully leveraging all available technology and data sets. Josh Gray is vice president of research and Dorrie Raymond is director of research at athenahealth..
+The athenaInsight 2017 – 2018 Flu Dashboard Tracking the spread of the flu nationwide, week by week Stay in the know Sign up for weekly data and news from athenaInsight..
+Dig deeper:.
+Policy and Regulations.
+Population Health Read This Next.
+5 ways to prepare for APMs Clare Wrobel of the Health Care Transformation Task Force on easing the shift to value Performance Insight.
+A better way to track flu How data from Google, Twitter, and cloud-based EHRs improve influenza surveillance.
+Amid nasty flu season, don't sell the flu vaccine short It's not too late to protect patients against a severe flu season, experts say.
+Expand Comments.
+Add a comment Add a comment Required fields are marked * Your email address will not be published. Add new comment.
+Comment *.
+Name *.
+Email *.
+Website.
+Leave this field blank.
+Shutdown didn't stop the flu – or flu data reporting​.
+athenaInsight.
+Follow Us.
+Learn more To learn how network insight can help drive performance for your organization, visit athenahealth.com Contact Us Privacy Policy Terms of Use Stay in the know Sign up for weekly data and news from athenaInsight..
+© Copyright 2017 athenahealth, Inc. All Rights Reserved..

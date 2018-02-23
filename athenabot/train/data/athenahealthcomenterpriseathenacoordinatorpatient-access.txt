@@ -1,0 +1,330 @@
+https://www.athenahealth.com/enterprise/athenacoordinator/patient-access
+.
+Request a live demo.
+Request a Live Demo.
+Please take a minute to tell us about yourself..
+* All fields required.
+First Name.
+*.
+Last Name.
+*.
+Email.
+*.
+State *.
+Select State....
+Alabama.
+Alaska.
+Arizona.
+Arkansas.
+California.
+Colorado.
+Connecticut.
+Delaware.
+District of Columbia.
+Florida.
+Georgia.
+Hawaii.
+Idaho.
+Illinois.
+Indiana.
+Iowa.
+Kansas.
+Kentucky.
+Louisiana.
+Maine.
+Maryland.
+Massachusetts.
+Michigan.
+Minnesota.
+Mississippi.
+Missouri.
+Montana.
+Nebraska.
+Nevada.
+New Hampshire.
+New Jersey.
+New Mexico.
+New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming.
+Organization Name.
+*.
+Phone (XXX) XXX-XXXX.
+*.
+# of physicians in your organization.
+1-6 7-20 21-150 151 or more Not applicable.
+View our Privacy Policy or Terms and Conditions..
+Prev.
+Next.
+Submit.
+Thanks! We'll be in touch soon!.
+In the meantime, please feel free to give us a call at 800.981.5084, explore the site or check out a video..
+An error occurred.
+Please feel free to give us a call at 800.981.5084 ..
+close.
+Request demo.
+Request demo.
+Services.
+athenahealth.
+Learn More About Our Products and Services.
+Explore Our Services.
+For Medical Groups and Practices.
+Electronic Health Records.
+Medical Billing.
+Patient Engagement.
+Order Transmission.
+Secure Text Messaging.
+Epocrates.
+For Hospitals and Health Systems.
+Electronic Health Records.
+Revenue Cycle Management.
+Care Coordination.
+Population Health.
+Epocrates.
+Solutions.
+Industry Solutions.
+Integrated health care solutions for medical groups and practices..
+Find your industry.
+Medical Groups & Practices.
+Medical Specialties.
+Starting a Medical Practice.
+FQHC.
+Urgent Care Centers.
+Health Systems.
+Community Hospitals.
+Accountable Care Organizations.
+Academic Medical Centers.
+Health Plans.
+Resources.
+The power of our network.
+We tap into our network data to improve provider performance, track public health trends, and more..
+Explore our data.
+Insights & Resources.
+Industry Knowledge Hubs.
+Revenue Calculator.
+Performance Benchmark Tool.
+Valued-Based Care.
+Value-Based Reimbursement.
+MACRA.
+Meaningful Use.
+MIPS.
+Thought Leadership.
+CloudView Blog.
+athenaInsight.
+About.
+About athenahealth.
+At athenahealth, we put people first. From our employees to the clients we serve, people drive everything we do..
+Learn more about us.
+Our Company.
+Events.
+Awards.
+Careers.
+Investors.
+Newsroom.
+Locations.
+athenaGives.
+Our Partners.
+Marketplace.
+More Disruption Please.
+Strategic Alliances.
+Your goal is to improve the way health care works. So is ours..
+Let's get there together..
+top.
+Schedule a 1:1 Meeting.
+Contact Us.
+800.981.5084.
+Client Login.
+Search form.
+Search.
+search.
+Select Page Type.
+default.
+about event home industry practice story.
+custom.
+athenaCoordinator®.
+Patient access and care coordination services.
+Seamless care coordination across the largest network in healthcare allows you to see more patients, have greater visibility, and do less work..
+Request a live demo.
+or contact us.
+800.981.5084.
+View Menu.
+Services Overview.
+Electronic Health Records (EHR).
+Revenue Cycle Management.
+Care Coordination.
+Population Health.
+Epocrates®.
+Care coordination overview.
+Bring in more patients, more efficiently.
+Through direct scheduling, athenahealth helps you drive network alignment, schedule density, and patient compliance. Direct scheduling simplifies access for patients, as well as for referring providers sending patients to your health system. We provide the visibility you need to see and act on referral patterns in order to manage your network. As a result, our clients see an average 16% increase in network retention..
+Gain visibility into patient activity.
+The most open network of its kind, athenahealth gives you complete and automatic visibility into patient data. Providers can access patient data and share it with any other provider connected to the network. All referrals, orders, and results from providers on the network include essential demographic, clinical, and financial data. Incoming order results are automatically populated in the patient chart. In addition, with our secure medical texting service, athenaText® , providers can collaborate on patient care while remaining HIPAA-compliant..
+See better results with less work.
+All athenahealth clients are on the same network, so all clients benefit from every interface we build and maintain. On the network, your health system has immediate access to our pre-built connections to immunization registries, labs, public health agencies, and more, as well as to any third party connection we build. Our teams manage billions of transactions between providers each year, including the work needed to exchange information via phone, fax, or paper..
+Need more functionality? Our rapidly growing marketplace features industry-leading third-party applications ready to integrate into your workflow..
+The latest from.
+athenaInsight.
+Tech helps patient-doctor partnerships thrive.
+John D. Halamka, M.D., on navigating change in healthcare with technology.
+Our cloud-based services include:.
+Electronic Health Records.
+Our award-winning Electronic Health Records (EHR) service gives providers greater control, so they can focus on what they do best..
+Revenue Cycle Management.
+Providers on our medical billing and practice management service get paid more, faster, with less work..
+Population Health.
+Patient communication services that reduce no-shows by 8% and keep providers better connected to our patients..
+Patient Access & Care Coordination.
+A complete end-to-end service for seamless care coordination across the continuum, no matter where patients seek care..
+Epocrates®.
+Clinical intelligence from the most trusted mobile medical reference is embedded inside our EHR workflow..
+Schedule an inside look.
+Thanks for your interest in athenahealth. We're excited to learn more about your practice..
+* All fields required.
+First Name.
+*.
+Last Name.
+*.
+Email.
+*.
+State *.
+Select State....
+Alabama.
+Alaska.
+Arizona.
+Arkansas.
+California.
+Colorado.
+Connecticut.
+Delaware.
+District of Columbia.
+Florida.
+Georgia.
+Hawaii.
+Idaho.
+Illinois.
+Indiana.
+Iowa.
+Kansas.
+Kentucky.
+Louisiana.
+Maine.
+Maryland.
+Massachusetts.
+Michigan.
+Minnesota.
+Mississippi.
+Missouri.
+Montana.
+Nebraska.
+Nevada.
+New Hampshire.
+New Jersey.
+New Mexico.
+New York.
+North Carolina.
+North Dakota.
+Ohio.
+Oklahoma.
+Oregon.
+Pennsylvania.
+Rhode Island.
+South Carolina.
+South Dakota.
+Tennessee.
+Texas.
+Utah.
+Vermont.
+Virginia.
+Washington.
+West Virginia.
+Wisconsin.
+Wyoming.
+Organization Name.
+*.
+Phone (XXX) XXX-XXXX.
+*.
+# of physicians in your organization.
+1-6.
+7-20.
+21-150.
+151 or more.
+Not applicable.
+We will never share your email without your permission. View our Privacy Policy or Terms Conditions ..
+Prev.
+Next.
+Submit.
+Thanks! We'll be in touch soon!.
+In the meantime, please feel free to give us a call at 800.981.5084, explore the site or check out a video..
+An error occurred.
+Please feel free to give us a call at 800.981.5084 ..
+Request a live demo.
+or call 800.981.5084.
+Products & Services.
+EHR.
+Practice Management.
+Revenue Cycle Management.
+Patient Engagement.
+Population Health Services.
+Order Transmission.
+Patient Access & Care Coordination.
+epocrates®.
+Industry Solutions.
+Medical Groups.
+and Practices.
+Medical Specialties.
+Starting a Medical Practice.
+Urgent Care Centers.
+FQHC.
+Accountable Care Organizations.
+Academic Medical Centers.
+Community Hospitals.
+Interoperability.
+Results & Insights.
+athenaInsight.
+Results From Our Network.
+Payer Rankings and Analysis.
+Calculate Potential Revenue.
+Benchmark Against Peers.
+Gain Reimbursement Insight.
+Performance Benchmark Tool.
+Government Initiatives:.
+Meaningful Use.
+PQRS.
+Thought Leadership:.
+CloudView Blog.
+athenaInsight.
+Results Insights(Column II).
+Industry Knowledge Hubs:.
+Reimagined EHR.
+Accountable Care Organization.
+Clinical Integration.
+EHR Advantages.
+Interoperability.
+ICD - 10.
+Meaningful Use.
+Patient Engagement.
+Value-Based Reimbursement.
+Population Health.
+Staying Independent.
+Community Hospitals.
+MACRA.
+See all.
+About athenahealth.
+Our Company.
+Events.
+Careers.
+Investors.
+Newsroom.
+Locations.
+athenaGives.
+Marketplace.
+More Disruption Please.
+Strategic Alliances.
+Visit us on:.
+facebook.
+twitter.
+youtube.
+linkedin.
+Privacy Policy.
+Terms of use.
+Disclaimers.
+Contact us.
+© Copyright 2017 athenahealth, Inc. All Rights Reserved.
