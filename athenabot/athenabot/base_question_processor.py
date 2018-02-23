@@ -30,8 +30,6 @@ class BaseQuestionProcessor(object):
                 cleaned_sentence, words = self.clean_sentence(sentence, file)
                 if len(keywords) > 0 and not any(keyword in words for keyword in keywords):
                     continue
-                #if file.endswith('athenaclinicalsehr.txt'):# and '106' in cleaned_sentence:
-                #    import pdb; pdb.set_trace()
                 if number_present and not any(is_number(word) for word in words):
                     continue
                 vector1 = self.text_to_vector(cleaned_sentence)
@@ -40,39 +38,7 @@ class BaseQuestionProcessor(object):
                 if cosine > max_score:
                     max_score = cosine
                     result = sentence
-
-
-                '''
-                all_words = sentence.split()
-                total_words = len(all_words)
-                for pos, word in enumerate(all_words):
-                    #if word == 'minutes' and file.endswith('athenahealthcominsightwhat-doctors-want-more-time-patients.txt'):
-                    #    import pdb; pdb.set_trace()
-                    word = self.clean_word(word)
-                    #word = self.remove_stopwords(word)
-                    if len(keywords) > 0 and word in keywords:
-                        previous_sentence = self.get_previous_words(all_words, pos)
-                        next_sentence = self.get_next_words(all_words, pos, total_words)
-                        for sentence in [previous_sentence, next_sentence]:
-                            vector1 = self.text_to_vector(sentence)
-                            vector2 = self.text_to_vector(self.question)
-                            cosine = self.get_cosine_score(vector2, vector1)
-                            if cosine > max_score:
-                                max_score = cosine
-                                result = sentence
-                '''
-        #result = self.clean_result(result)
         return result, max_score
-
-    '''
-    def clean_word(self, word):
-        word = self.remove_stopwords(word)
-        match = re.match(r"([0-9]+)([a-z]+)", word, re.I) # for cases like 20times
-        if match:
-            return match.groups()[1]
-        else:
-            return word
-    '''
 
     def clean_sentence(self, sentence, file):
         final_words = []
@@ -111,11 +77,12 @@ class BaseQuestionProcessor(object):
         return res
 
     def is_sentence_breaker(self, word):
+        breaker_words = ['watch', 'demo']
         if re.match(r"([0-9]+),([0-9]+)", word, re.I): # for cases like 200,00
             return False
         elif re.match(r"([0-9]+),%", word, re.I): # for cases like 20%
             return False
-        if not word.isalnum() :
+        if not word.isalnum() or word in breaker_words:
             return True
         return False
 

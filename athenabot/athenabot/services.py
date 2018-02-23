@@ -130,12 +130,16 @@ class Chatbot(object):
 
 
 if __name__ == '__main__':
-    #question = 'Is athenahealth best in KLAS?'
-    #question = 'How long are wellness visits scheduled between doctors and patients?'
-    question = 'How many min in a day can be saved by using epocrates?'
-    #question = 'What is the number of providers on athenahealth network?'
-    obj = Chatbot(question)
-    obj.process()
+    question1 = 'Is athenahealth best in KLAS?'
+    question2 = 'How long are wellness visits scheduled between doctors and patients?'
+    question3 = 'How many min in a day can be saved by using epocrates?'
+    question4 = 'What is the number of providers on athenahealth network?'
+    question5 = 'Take me to driving quality page in hppn (High-performing performance network).'
+    questions = [question1, question2, question3, question4, question5]
+    for question in questions:
+        print question
+        obj = Chatbot(question)
+        obj.process()
     #clean_question = obj.remove_stopwords(question)
     #import pdb; pdb.set_trace()
     #ques_words = set(clean_question.split())
