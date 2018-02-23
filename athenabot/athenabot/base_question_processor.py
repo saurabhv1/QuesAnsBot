@@ -9,16 +9,21 @@ from utils import is_number
 
 class BaseQuestionProcessor(object):
     def __init__(self, question):
-        self.question = question
         self.stop_words = set(stopwords.words('english'))
+        self.question = self.clean_question(question)
         self.word_pattern = re.compile(r'\w+')
         self.tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
-    def process(self, keywords = [], clean_sentence=False, number_present=False):
-        data_dir = '../train/data/' if len(keywords) == 0 else '../train/data_kw/'
-        return self.get_best_sentence_match(keywords, clean_sentence, number_present, data_dir)
+    def clean_question(self, question):
+        question = self.remove_stopwords(question)
+        question = question.replace('athena', '').replace('athenahealth','')
+        return question
 
-    def get_best_sentence_match(self, keywords, clean_sentence, number_present, data_dir):
+    def process(self, keywords = [], clean_sentence=False, number_present=False, pos_tag=None):
+        data_dir = '../train/data/' if len(keywords) == 0 else '../train/data_kw/'
+        return self.get_best_sentence_match(keywords, clean_sentence, number_present, data_dir, pos_tag)
+
+    def get_best_sentence_match(self, keywords, clean_sentence, number_present, data_dir, req_pos_tag):
         max_score = -1
         result = ''
         all_files = self.get_all_files()
@@ -30,8 +35,14 @@ class BaseQuestionProcessor(object):
                 cleaned_sentence, words = self.clean_sentence(sentence, file)
                 if len(keywords) > 0 and not any(keyword in words for keyword in keywords):
                     continue
+                #if file.endswith('athenaclinicalsehr.txt') and '23' in cleaned_sentence:
+                #    import pdb; pdb.set_trace()
                 if number_present and not any(is_number(word) for word in words):
                     continue
+                if req_pos_tag:
+                    pos_tags = nltk.pos_tag(words)
+                    if not any(pos_tag[1] == req_pos_tag for pos_tag in pos_tags):
+                        continue
                 vector1 = self.text_to_vector(cleaned_sentence)
                 vector2 = self.text_to_vector(self.question)
                 cosine = self.get_cosine_score(vector2, vector1)
@@ -42,7 +53,7 @@ class BaseQuestionProcessor(object):
 
     def clean_sentence(self, sentence, file):
         final_words = []
-        #if file.endswith('athenaclinicalsehr.txt') and '106' in sentence:
+        #if file.endswith('athenaclinicalsehr.txt'):# and 'documentation  rate' in sentence:
         #    import pdb; pdb.set_trace()
         sentence = self.remove_stopwords(sentence)
         words = sentence.split()
@@ -63,9 +74,9 @@ class BaseQuestionProcessor(object):
 
     def get_sentences(self, content, file):
         res = []
-        #if file.endswith('athenaclinicalsehr.txt'):
+        #if file.endswith('athenaclinicalsehr.txt'):# and 'documentation  rate' in sentence:
         #    import pdb; pdb.set_trace()
-        temp = content.replace('. ', '||').replace('*', '||').replace(':', '||').replace(' ', '||')
+        temp = content.replace('. ', '||').replace('*', '||').replace(':', '||').replace('.\n', ' ').replace(' ', '||')
         words = temp.split('||')
         cur_words = []
         for word in words:
@@ -78,9 +89,13 @@ class BaseQuestionProcessor(object):
 
     def is_sentence_breaker(self, word):
         breaker_words = ['watch', 'demo']
-        if re.match(r"([0-9]+),([0-9]+)", word, re.I): # for cases like 200,00
+        #if word == '23%':
+        #    import pdb; pdb.set_trace()
+        if re.match(r"([0-9]+),([0-9]+)", word, re.I): # for cases like 200,000
             return False
-        elif re.match(r"([0-9]+),%", word, re.I): # for cases like 20%
+        elif re.match(r"([0-9]+)%", word, re.I): # for cases like 20%
+            return False
+        elif re.match(r"([a-z]+)-([a-z]+)", word, re.I):
             return False
         if not word.isalnum() or word in breaker_words:
             return True

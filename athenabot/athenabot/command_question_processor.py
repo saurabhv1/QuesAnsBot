@@ -5,7 +5,6 @@ class CommandQuestionProcessor(BaseQuestionProcessor):
         super(CommandQuestionProcessor, self).__init__(question)
 
     def process(self):
-        #return super(CommandQuestionProcessor, self).process()
         return self.find_best_url()
 
     def find_best_url(self):

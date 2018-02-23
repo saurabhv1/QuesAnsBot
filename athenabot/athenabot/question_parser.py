@@ -11,7 +11,8 @@ class QuestionParser(object):
                                                 (QuestionType.QUESTION_COMMAND,     self.is_question_command),
                                                 (QuestionType.QUESTION_DURATION,    self.is_question_duration),
                                                 (QuestionType.QUESTION_DISTANCE,    self.is_question_distance),
-                                                (QuestionType.QUESTION_COUNT,       self.is_question_count)
+                                                (QuestionType.QUESTION_COUNT,       self.is_question_count),
+                                                (QuestionType.QUESTION_WHO,         self.is_question_who)
                                             ]
 
     def get_question_type(self):
@@ -35,4 +36,7 @@ class QuestionParser(object):
 
     def is_question_count(self):
         return any(keyword in self.question for keyword in COUNT_KEYWORDS)
+
+    def is_question_who(self):
+        return self.question.startswith('who ')
         
