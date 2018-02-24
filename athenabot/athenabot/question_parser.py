@@ -38,5 +38,5 @@ class QuestionParser(object):
         return any(keyword in self.question for keyword in COUNT_KEYWORDS)
 
     def is_question_who(self):
-        return self.question.startswith('who ')
+        return self.question.startswith('who ') or self.question.startswith('name ')
         

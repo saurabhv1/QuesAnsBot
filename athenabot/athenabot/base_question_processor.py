@@ -13,6 +13,7 @@ class BaseQuestionProcessor(object):
         self.question = self.clean_question(question)
         self.word_pattern = re.compile(r'\w+')
         self.tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+        self.data_dir = '../train/data_kw/'
 
     def clean_question(self, question):
         question = self.remove_stopwords(question)
@@ -20,15 +21,25 @@ class BaseQuestionProcessor(object):
         return question
 
     def process(self, keywords = [], clean_sentence=False, number_present=False, pos_tag=None):
-        data_dir = '../train/data/' if len(keywords) == 0 else '../train/data_kw/'
-        return self.get_best_sentence_match(keywords, clean_sentence, number_present, data_dir, pos_tag)
+        data_dir = '../train/data_kw/'
+        best_sentence, score = self.get_best_sentence_match(keywords, clean_sentence, number_present, pos_tag)
+        words = best_sentence.split()
+        nearby_words = []
+        if len(words) > 20:
+            generic_keywords = self.get_generic_keywords()
+            for pos, word in enumerate(words):
+                if word in generic_keywords:
+                    nearby_words = self.get_previous_next_words(words, pos, len(words))
+                    break
+        return ' '.join(nearby_words) if len(nearby_words) > 0 else best_sentence
 
-    def get_best_sentence_match(self, keywords, clean_sentence, number_present, data_dir, req_pos_tag):
+
+    def get_best_sentence_match(self, keywords, clean_sentence, number_present, req_pos_tag):
         max_score = -1
         result = ''
         all_files = self.get_all_files()
-        for count, file in enumerate(all_files):
-            file = data_dir + file
+        for file in all_files:
+            file = self.data_dir + file
             file_content = open(file).read()
             sentences = self.get_sentences(file_content, file)
             for sentence in sentences:
@@ -80,12 +91,15 @@ class BaseQuestionProcessor(object):
         words = temp.split('||')
         cur_words = []
         for word in words:
+            #if word == 'Helen':
+            #    import pdb; pdb.set_trace()
             if self.is_sentence_breaker(word):
                 res.append(' '.join(cur_words))
                 cur_words = []
             else:
                 cur_words.append(word)
         return res
+
 
     def is_sentence_breaker(self, word):
         breaker_words = ['watch', 'demo']
@@ -95,7 +109,7 @@ class BaseQuestionProcessor(object):
             return False
         elif re.match(r"([0-9]+)%", word, re.I): # for cases like 20%
             return False
-        elif re.match(r"([a-z]+)-([a-z]+)", word, re.I):
+        elif re.match(r"([a-z]+)-([a-z]+)", word, re.I): # cses like west-wind
             return False
         if not word.isalnum() or word in breaker_words:
             return True
@@ -109,7 +123,21 @@ class BaseQuestionProcessor(object):
         next_pos = min(total_words-1, cur_pos+count)
         return ' '.join(words[cur_pos-1: next_pos+1])
 
-    def get_previous_next_words(self, content, cur_pos, total_words, count=5):
+    def get_generic_keywords(self):
+        '''
+        Get all the forms of Noun occuring in the question
+        viz: NN, NNP, NNPS, NNS
+        '''
+        keywords = set()
+        question_words = nltk.word_tokenize(self.question)
+        pos_tags = nltk.pos_tag(question_words)
+        for word, tag in pos_tags:
+            if tag.startswith('NN'):
+                keywords.add(word)
+        print keywords
+        return keywords
+
+    def get_previous_next_words(self, content, cur_pos, total_words, count=10):
         previous_pos = max(0, cur_pos-count)
         next_pos = min(total_words-1, cur_pos+count)
         return content[previous_pos: next_pos]
@@ -132,7 +160,7 @@ class BaseQuestionProcessor(object):
         return float(numerator) / denominator if denominator else 0.0
 
     def get_all_files(self):
-        data_dir = '../train/data'
+        data_dir = '../train/data_kw'
         all_files = [f for f in os.listdir(data_dir) if not(f == 'urls.txt')]
         return all_files
 

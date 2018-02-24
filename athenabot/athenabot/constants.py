@@ -7,6 +7,7 @@ class QuestionType(object):
     QUESTION_DISTANCE   = 'question_distance'
     QUESTION_COUNT      = 'question_count'
     QUESTION_WHO 		= 'question_who'
+    QUESTION_GENERIC 	= 'question_generic'
 
 DURATION_KEYWORDS = set(['time', 'how long', 'duration', 'minutes', 
                     'minute', 'min', 'min','min', 'hours', 'hour', 'seconds', 'second', 'sec '])
